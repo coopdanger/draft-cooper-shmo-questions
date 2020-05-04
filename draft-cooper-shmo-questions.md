@@ -1,7 +1,7 @@
 ---
 title: "Questions"
 abbrev: Questions
-docname: draft-cooper-shmo-questions
+docname: draft-cooper-shmo-questions-latest
 date: {DATE}
 category: inf
 ipr: trust200902
