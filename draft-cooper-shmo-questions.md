@@ -3,7 +3,7 @@ title: "Questions"
 abbrev: Questions
 docname: draft-cooper-shmo-questions-latest
 date: {DATE}
-category: inf
+category: info
 ipr: trust200902
 area: General
 
